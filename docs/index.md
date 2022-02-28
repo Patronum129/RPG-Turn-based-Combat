@@ -57,11 +57,13 @@ Real Time in RPGs
 - Compared with the Turn Based Combat system, the real-time system requires more cost in the production of the game.
 
 ## Evolution of turn-based combat systems
-1. Xenogears - Combo System
+### 1. Xenogears - Combo System
 You can make different inputs to make the character do different reaction, each input takes a different amount of AP to preform, a specific set of input sequences will make the character combo the “deathblow”, essentially a special move that does a lot more damage.
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=yL-_0Yo4ZMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. Legend of Legaia - Arts Combo System
+
+### 2. Legend of Legaia - Arts Combo System
 You can say it's the natural evolution of the Xenogears system, where now you can actually combo more than one "deathblow".
 
+<iframe width="560" height="315" src="https://youtu.be/tfvb1gyfu_0?t=3m32s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
