@@ -185,13 +185,19 @@ Good interface design and proper visual cues for players can improve the clarity
 ## How to implement a turn-based system in coding
 ### Reference
 [Create a turn-based combat system](https://www.raspberrypi.com/news/create-a-turn-based-combat-system-wireframe-28/)
+
 [Turn-Based Combat in Unity](https://www.youtube.com/watch?v=_1pz_ohupPs)
+
 [Turn based Combat System](https://www.evennia.com/docs/latest/Turn-based-Combat-System.html)
+
 [Making a turn-based strategy game in C++ in 72 hours](https://lchsk.com/making-a-turn-based-strategy-game-in-cpp-in-72-hours.html)
 
 ## Theory reference
 [Turn-Based Combat](https://tvtropes.org/pmwiki/pmwiki.php/Main/TurnBasedCombat)
+
 [The Evolution of Unique Turn-based Battle Systems Guide](https://www.reddit.com/r/JRPG/comments/hwdk8p/the_evolution_of_unique_turnbased_battle_systems/)
+
 [12 ways to improve turn-based RPG combat systems](https://www.gamedeveloper.com/design/12-ways-to-improve-turn-based-rpg-combat-systems)
+
 [Does the turn-based combat have future?](https://www.zhihu.com/question/20325535/answer/706124678)
 
