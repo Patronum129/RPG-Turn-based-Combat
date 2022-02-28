@@ -60,8 +60,7 @@ Real Time in RPGs
 ### 1. Xenogears - Combo System
 You can make different inputs to make the character do different reaction, each input takes a different amount of AP to preform, a specific set of input sequences will make the character combo the “deathblow”, essentially a special move that does a lot more damage.
 
-<video src="https://www.youtube.com/watch?v=yL-_0Yo4ZMQ" controls="controls" style="max-width: 730px;">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yL-_0Yo4ZMQ?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2. Legend of Legaia - Arts Combo System
 You can say it's the natural evolution of the Xenogears system, where now you can actually combo more than one "deathblow".
@@ -122,3 +121,44 @@ While this one looks the same as the one in Valkyrie Profile, it actually has en
   - The system is sufficiently deterministic that skilled play using a proper strategy will nearly always result in victory.
 - Tactical tools
   - If there is some randomness in the system (which there will be in most cases), the player has sufficient tactical tools at her disposal so that skilled play will almost always trump bad luck.
+
+### 1. Use space
+By using space in your battles, you add a new dimension to combat both figuratively and literally: the concept of attack range comes into play, and the player gains direct control of actions like fleeing and protecting weaker characters behind stronger ones.
+
+### 2. Give the player more characters
+Putting more characters under the player’s control pays great dividends in terms of tactics. More characters means that the player can be expected to handle much more involved combat scenarios, and becomes responsible for keeping more characters alive. This naturally gives rise to dilemmas about how to balance multiple objectives with minimal losses, which in turn make combat more interesting.
+
+### 3. Specialize the characters
+Make sure characters of different classes serve different battlefield roles; don’t just make them all fighters with different hit points, armor and spells.If you differentiate your classes successfully, your player will have to think carefully about which characters should perform which actions during battle.
+
+### 4. Specialize the enemies
+If every enemy is a melee bruiser with magical attacks, your player has no reason to prioritize one enemy over the others. Give enemies distinctly different capabilities, weaknesses, and battlefield roles.
+
+### 5. Variable distance
+Do not always begin battles with enemies 1 turn or less away from melee range! Spacing them out a little will give the player more flexibility to try out ranged tactics, as well as pressuring the player take cover from or flank enemy ranged units.
+
+### 6. Directional facing
+Make it so that characters are easier to hit and/or suffer additional damage when attacked from behind or the sides. Doing so amplifies the importance of positioning in close quarters.
+
+### 7. Manipulable terrain
+Let the player actually manipulate terrain during the battle. Temporary terrain creation occasionally appears in western RPGs in the form of walls of fire, walls of ice, and traps that players can place to form barriers or choke points.
+
+### 8. Resource management
+Define a specific magic value for each character, and the magic value required for each skill, or some useful tools can be used in battle, good resource management will bring different results to the battle.
+
+### 9. Give units multiple attack options
+Giving each character the option of more effective but more expensive or risky attacks expands the player’s tactical options greatly.
+
+### 10. Support multiple objectives
+This not just in the sense that your combat system should challenge the player with different win and loss conditions; I mean this in the sense that multiple different objectives (not of the win/loss variety) should be able to coexist within any given battle in your combat system.
+
+### 11. Allow delayed attacks
+Delayed attacks add a new twist to the turn-based formula, allowing characters to attack even when it isn’t their turn anymore. Counterattacks are an effective form of delayed attack. By allowing melee units to only retaliate against melee units and ranged units to only retaliate against units at range, counterattacks further complicate unit match-ups and enforce character specialization. 
+
+### 12. A good UI
+Good interface design and proper visual cues for players can improve the clarity of the game and bring players a better gaming experience
+
+## How to implement a turn-based system in coding
+### Reference
+[Create a turn-based combat system](https://www.raspberrypi.com/news/create-a-turn-based-combat-system-wireframe-28/)
+
